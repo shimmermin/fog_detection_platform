@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\echart\echart\bin\echart.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\echart\echart\bin\echart.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\echart\echart\obj\Debug\echart.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\echart\echart\obj\Debug\echart.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\echart\echart\obj\Debug\echart.csprojResolveAssemblyReference.cache
